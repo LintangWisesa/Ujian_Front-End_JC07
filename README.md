@@ -26,7 +26,7 @@ Alur kerjanya sederhana: user dapat memasukkan random teks ke dalam textbox inpu
 Buatlah sebuah project React yang menampilkan kumpulan lelucon dari __*Joke API*__ [(https://github.com/15Dkatz/official_joke_api)](https://github.com/15Dkatz/official_joke_api). Tampilkan dalam bentuk **Card Bootstrap**, lengkap dengan tombol __Reload__ untuk merefresh page. 
 
 ```bash
-GET https://08ad1pao69.execute-api.us-east-1.amazonaws.com/dev/random_joke
+GET https://safe-falls-22549.herokuapp.com/random_joke
 ```
 
 ![Lintang_Dad_Jokes](./soal2.png)
