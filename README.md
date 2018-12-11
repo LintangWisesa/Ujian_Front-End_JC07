@@ -18,7 +18,7 @@ Alur kerjanya sederhana: user dapat memasukkan random teks ke dalam textbox inpu
 
 ![Lintang_Avatar](./soal1.png)
 
->_**Catatan:**_ *Deploy project ke Firebase Hosting. Commit/upload project ini ke akun Github Anda dengan nama repo: __Profile_Picture_Generator__. Salin file __App.js__ aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project & link url hasil deploy. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __Front-Soal1-namaAnda__.*
+>_**Catatan:**_ *Deploy project ke __Firebase Hosting__. Commit/upload project ini ke akun Github Anda dengan nama repo: __Profile_Picture_Generator__. Salin file __App.js__ aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project & link url hasil deploy. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __Front-Soal1-namaAnda__.*
 
 #
 ### **Soal 2 - Dad Jokes**
@@ -31,7 +31,7 @@ GET https://08ad1pao69.execute-api.us-east-1.amazonaws.com/dev/random_joke
 
 ![Lintang_Dad_Jokes](./soal2.png)
 
->_**Catatan:**_ *Commit/upload project ini ke akun Github Anda dengan nama repo: **Dad_Jokes**. Salin file App.js aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project ini. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __Front-Soal2-namaAnda__.*
+>_**Catatan:**_ *Deploy project ke __Heroku__. Commit/upload project ini ke akun Github Anda dengan nama repo: **Dad_Jokes**. Salin file __App.js__ aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project & link url hasil deploy. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __Front-Soal2-namaAnda__.*
 
 #
 ### **Soal 3 - Aplikasi Info Bitcoin**
@@ -54,14 +54,14 @@ Buatlah sebuah aplikasi React yang memanfaatkan info seputar Bitcoin dari Blockc
     https://blockchain.info/tobtc?currency=USD&value=500
     ```
   
-  - Halaman ketiga (konversi Bitcoin ke Rupiah) menyajikan fitur bagi user untuk mengkonversi Bitcoin menjadi Rupiah, dengan catatan 1 USD setara dengan Rp 14.000,-. Gunakan Bitcoin Conversion API yang disediakan [Blockchain.info](https://blockchain.info/api/exchange_rates_api), yang sudah Anda pakai sebelumnya. 
+  - Halaman ketiga (konversi Bitcoin ke Rupiah) menyajikan fitur bagi user untuk mengkonversi Bitcoin menjadi Rupiah, __dengan catatan 1 USD setara dengan Rp 14.000,-__. Gunakan Bitcoin Conversion API yang disediakan [Blockchain.info](https://blockchain.info/api/exchange_rates_api), yang sudah Anda pakai sebelumnya. 
   
     > _**Catatan:**_
     Mata uang Indonesia (IDR/Rupiah) tidak termasuk dalam data yang disediakan oleh API [Blockchain.info](https://blockchain.info/api/exchange_rates_api). Jadi, silakan modifikasi data yang Anda dapat dari API tersebut dengan algoritma yang sesuai.
 
 ![Lintang_Bitcoin](https://4.bp.blogspot.com/-B6q5J-hz70Q/Ww9ic69eVnI/AAAAAAAAELE/W8cStewOUt8tk1NLkdRFArqfKVzgt9C_QCLcBGAs/s1600/soal3a.png)
 
->_**Catatan:**_ *Commit/upload project ini ke akun Github Anda dengan nama repo: **React_Bitcoin**. Salin file App.js aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project ini. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __Front-Soal3-namaAnda__.*
+>_**Catatan:**_ *Deploy project ke __Netlify__. Commit/upload project ini ke akun Github Anda dengan nama repo: **React_Bitcoin**. Salin file __App.js__ aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project & link url hasil deploy. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __Front-Soal3-namaAnda__.*
 
 #
 
