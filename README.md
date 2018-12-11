@@ -1,4 +1,4 @@
-# Soal Ujian Purwadhika Front-End Web JC-06
+# Soal Ujian Purwadhika Front-End Web JC-07
 
 ![Lintang_Purwadhika](https://static.wixstatic.com/media/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png/v1/fill/w_246,h_39,al_c,usm_0.66_1.00_0.01/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png)
 
@@ -12,13 +12,13 @@ Panduan selengkapnya klik video berikut atau [klik di sini!](https://www.youtube
 #
 ### **Soal 1 - Profile Picture Generator**
 
-Buatlah sebuah project React yang dapat me-generate gambar avatar, dengan memanfaatkan layanan *__Robohash__* [(https://robohash.org/)](https://robohash.org/). Robohash merupakan layanan web untuk menampilkan gambar acak (robot, monster, alien atau kucing) berdasarkan input teks.
+Buatlah sebuah project React yang dapat men-generate gambar avatar, dengan memanfaatkan layanan *__Robohash__* [(https://robohash.org/)](https://robohash.org/). Robohash merupakan layanan web untuk menampilkan gambar acak (robot, monster, alien atau kucing) berdasarkan input teks.
 
 Alur kerjanya sederhana: user dapat memasukkan random teks ke dalam textbox input, kemudian gambar avatar akan muncul usai user menekan tombol.
 
 ![Lintang_Avatar](./soal1.png)
 
->_**Catatan:**_ *Commit/upload project ini ke akun Github Anda dengan nama repo: **Profile_Picture_Generator**. Salin file App.js aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project ini. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __Front-Soal1-namaAnda__.*
+>_**Catatan:**_ 1. *Deploy project ke Firebase Hosting.* 2. *Commit/upload project ini ke akun Github Anda dengan nama repo: __Profile_Picture_Generator__*. 3. *Salin file __App.js__ aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project & link url hasil deploy. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __Front-Soal1-namaAnda__.*
 
 #
 ### **Soal 2 - Dad Jokes**
