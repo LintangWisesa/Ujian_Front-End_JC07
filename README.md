@@ -18,9 +18,7 @@ Alur kerjanya sederhana: user dapat memasukkan random teks ke dalam textbox inpu
 
 ![Lintang_Avatar](./soal1.png)
 
->_**Catatan:**_ 
-*Deploy project ke Firebase Hosting.* 
-*Commit/upload project ini ke akun Github Anda dengan nama repo: __Profile_Picture_Generator__*. 3. *Salin file __App.js__ aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project & link url hasil deploy. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __Front-Soal1-namaAnda__.*
+>_**Catatan:**_ *Deploy project ke Firebase Hosting. Commit/upload project ini ke akun Github Anda dengan nama repo: __Profile_Picture_Generator__. Salin file __App.js__ aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project & link url hasil deploy. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __Front-Soal1-namaAnda__.*
 
 #
 ### **Soal 2 - Dad Jokes**
